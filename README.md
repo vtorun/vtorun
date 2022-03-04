@@ -15,19 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-🤝Sosyal Medya Hesaplarım
-  
-
-Languages & Frameworks
-     
-
-⚡ Database
- 
-
-👩‍💻 Kullandığım IDE Çeşitleri
-  
-
-👩‍🖍📐 Design
-  
