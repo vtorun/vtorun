@@ -10,13 +10,16 @@
 
 ***:computer:	DON'T REPEAT YOURSELF(Engin DEMİROĞ)***
 <br>
+<br>
+<br>
+<br>
 <p align="center">
   <img src= "https://gpvc.arturio.dev/vtorun" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vtorun?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/vtorun?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-
-<h1 align="center"> 💻Volkan TORUN</h1>
+<br>
+<h2 align="center"> 💻Volkan TORUN</h2>
 <p align="center">
 <a href="https://github.com/berkcangumusisik">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vtorun&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
