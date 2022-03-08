@@ -1,5 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Volkan Torun </h1>
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+ <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="![softdev](https://user-images.githubusercontent.com/64329150/157189881-16552460-3f9f-40ed-917f-211bdf23208a.png)
+"></a>
 <br/>
 
 ### Ben Kimim
