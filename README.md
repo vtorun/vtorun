@@ -8,7 +8,7 @@
 - :computer:Kendimi her alanda geliştirmee çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **volkantorunn@hotmail.com** adresini kullanabilirsiniz. 
 
-***:computer:	DON'T REPEAT YOURSELF(Engin DEMİROĞ)***
+***:computer:	DON'T REPEAT YOURSELF (Engin DEMİROĞ) ***
 <br>
 <br>
 <br>
