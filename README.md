@@ -5,7 +5,7 @@
 ### Ben Kimim
 - :computer:Selçuk Üniversitesi - Bilgisayar Programcılığı
 - :computer:Full Stack Developer olmak için çabalıyorum. 
-- :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
+- :computer:Kendimi geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **volkantorunn@hotmail.com** adresini kullanabilirsiniz. 
 
 ***:computer:	DON'T REPEAT YOURSELF***
