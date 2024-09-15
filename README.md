@@ -27,7 +27,7 @@
  </div>
 </p>
 
- <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
+ <h2 align="center">🤝My Social Media Accounts </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/volkantorun/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
 <a href="https://instagram.com/trnvolkan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
@@ -56,7 +56,7 @@
 
 </p>
 
-<h2 align="center">👩‍💻 Kullandığım IDE Çeşitleri</h2>
+<h2 align="center">👩‍💻IDEs I use</h2>
 
 <p align="center">
   
