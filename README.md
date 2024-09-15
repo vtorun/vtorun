@@ -29,7 +29,7 @@
 
  <h2 align="center">🤝My Social Media Accounts </h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/volkantorun/" target="blank"><img align="center" src="[https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"](https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png) height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/volkantorun/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="30" /></a>
 <a href="https://instagram.com/trnvolkan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 <a href="https://medium.com/@volkan.torun" target="blank"><img align="center" src="https://www.stevija.nl/Nieuwsbrieven/20181217/images/SteviJa-Facebook.png" height="30" width="40" />
 </a>
