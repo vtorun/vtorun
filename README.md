@@ -2,7 +2,7 @@
  
 <br/>
 
-### Ben Kimim
+### Who am I?
 - :computer:Selcuk University - Computer Programming
 - :computer:I am trying to become a Full Stack Developer. 
 - :computer:I am trying to improve myself.
