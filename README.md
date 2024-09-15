@@ -6,7 +6,7 @@
 - :computer:Selcuk University - Computer Programming
 - :computer:I am trying to become a Full Stack Developer. 
 - :computer:I am trying to improve myself.
-- 📫 If you want to reach me, you can use volkantorunn@hotmail.com.
+- 📫 If you want to reach me, you can use volkantorunn@hotmail.com
 
 ***:computer:	DON'T REPEAT YOURSELF***
 <br>
