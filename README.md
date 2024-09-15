@@ -14,7 +14,8 @@
 <br>
 <br>
 <p align="center">
-  <img src= "![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)"> •  
+  [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+ •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vtorun?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/vtorun?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
