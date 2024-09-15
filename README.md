@@ -52,7 +52,7 @@
   
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png"></code>
-<code><img height="40" width="40" src="https://tr.m.wikipedia.org/wiki/Dosya:Microsoft_Office_Access_(2013%E2%80%932019).svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"></code>
 
 </p>
 
@@ -63,7 +63,7 @@
 <code><img height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest/scale-to-width-down/250?cb=20191221122625"></code>
 <code><img height="40" width="40" src="https://img.utdstc.com/icon/ebd/c75/ebdc759e8c0dd0f603ea13620f6f2ff5221bc73ac9a823e9356ca7e09b90488a:200"></code>
 <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg"></code>
-<code><img height="40" width="40" src="https://commons.wikimedia.org/wiki/File:IntelliJ_IDEA_Icon.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/IntelliJ_IDEA_Edu_Icon.svg"></code>
    
 
 </p>
