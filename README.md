@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/volkantorun/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="30" /></a>
 <a href="https://instagram.com/trnvolkan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
-<a href="https://medium.com/@volkan.torun" target="blank"><img align="center" src="[https://www.stevija.nl/Nieuwsbrieven/20181217/images/SteviJa-Facebook.png](https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg)" height="30" width="40" />
+<a href="https://medium.com/@volkan.torun" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" height="30" width="40" />
 </a>
 </p>
 
