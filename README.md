@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Volkan Torun </h1>
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fdeveloper-icon%2F&psig=AOvVaw2ir_CG1QNAhIH3rAMSXs82&ust=1726478051651000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwizoI-JzsSIAxXiafEDHZ8uO-EQjRx6BAgAEBg"></a>
+ <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="![image](https://github.com/user-attachments/assets/6ed7ae45-0cdc-4540-9489-966b6cdbff71)
+"></a>
 <br/>
 
 ### Ben Kimim
