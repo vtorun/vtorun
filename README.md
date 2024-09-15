@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Ben Volkan Torun </h1>
+<h1 align="center">Hi 👋, I am Volkan Torun </h1>
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://cdn3.iconfinder.com/data/icons/software-development-flat-colorful/2048/5438_-_Software_Developer-512.png"></a>
 <br/>
 
